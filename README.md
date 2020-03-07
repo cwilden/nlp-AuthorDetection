@@ -1,4 +1,4 @@
-# nlp-AuthorProbability
+# nlp-AuthorDetection
 Generate likeliest text and calculate probability of belonging to an Author using Ngram Language Model.
 
 In this project we created a simple Language model that assigns log probabilities to sequences of words, the ngrams.
